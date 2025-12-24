@@ -8,7 +8,7 @@ configparser==4.0.2
 contextlib2==0.6.0.post1
 coverage==5.5
 distlib==0.3.1
-filelock==3.0.12
+filelock==3.20.1
 funcsigs==1.0.2
 idna==2.10
 importlib-metadata==2.1.1
